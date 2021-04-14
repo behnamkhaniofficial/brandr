@@ -1,5 +1,4 @@
 # brandr
-brandr tag 
 
 
 
@@ -3657,20 +3656,5 @@ Acknowledgements
    processing. Éric Vyncke, Erik Kline, Robert Wilton, and Roman Danyliw
    provided further IESG comments, which included an IoT directorate
    review by Eve Schooler.
-
-Authors' Addresses
-
-   Carsten Bormann
-   Universität Bremen TZI
-   Postfach 330440
-   D-28359 Bremen
-   Germany
-
-   Phone: +49-421-218-63921
-   Email: cabo@tzi.org
-
-
-   Paul Hoffman
-   ICANN
-
-   Email: paul.hoffman@icann.org
+###behnamkhaniofficial 
+###Email :behnamfilmno@gmail.com 
